@@ -16,7 +16,7 @@ A personal portfolio showcasing my skills and projects. The portfolio is designe
 Files:
 index.html: HTML file containing the portfolio structure.
 styles.css: Stylesheet for the portfolio.
-script.js: JavaScript for dynamic elements and interactions.
+
 
 <h2>3. Calculator</h2>
 Description:
