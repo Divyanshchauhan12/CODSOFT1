@@ -3,7 +3,7 @@ Welcome to my Codsoft internship tasks repository! In this project, I have compl
 
 <h2>1. Landing Page</h2>
 Description:
-A simple landing page built using HTML, CSS, and JavaScript. The landing page introduces visitors to my profile and includes a call-to-action section.
+A simple landing page built using HTML, CSS. The landing page introduces visitors to my profile and includes a call-to-action section.
 
 Files:
 index.html: The main HTML file for the landing page.
@@ -11,7 +11,7 @@ styles.css: Cascading Style Sheets for styling the landing page.
 
 <h2>2. Portfolio</h2>
 Description:
-A personal portfolio showcasing my skills and projects. The portfolio is designed with HTML, CSS, and JavaScript, providing an overview of my background, skills, and selected projects.
+A personal portfolio showcasing my skills and projects. The portfolio is designed with HTML, CSS, providing an overview of my background, skills, and selected projects.
 
 Files:
 index.html: HTML file containing the portfolio structure.
